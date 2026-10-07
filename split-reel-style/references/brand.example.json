@@ -1,0 +1,24 @@
+{
+  "owner": "Your Name",
+  "palette": {
+    "green":    "#5E6C5B",
+    "cream":    "#F4EFE6",
+    "white":    "#FEFCF6",
+    "sky":      "#D6E0E2",
+    "storm":    "#686867",
+    "midnight": "#162A2C"
+  },
+  "bgMap": { "beige": "cream", "light": "white", "dark": "midnight", "paper": "cream" },
+  "accent":     "#5E6C5B",
+  "accentDark": "#D6E0E2",
+  "ink":        "#162A2C",
+  "font":       "Rubik",
+  "faceCaption": { "fill": "#FFE14D", "stroke": "#000000", "strokeW": 4 },
+  "profile": {
+    "name":   "Your Name",
+    "title":  "Developer & Tech Creator",
+    "handle": "your_handle",
+    "avatar": "avatar.jpg",
+    "showFollowers": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "reel-styles-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frame renderer for the reel-styles Claude Code skills (split-reel-style, paper-reel-style)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^24.0.0"
+  }
+}
