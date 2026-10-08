@@ -18,6 +18,7 @@ description: >-
 SRS=~/.claude/skills/split-reel-style
 PRS=~/.claude/skills/paper-reel-style
 python $SRS/scripts/new_project.py <work> --src <الفيديو> --style paper     # بيحمّل paper-style.js تلقائياً
+# أول استخدام: بتنفتح صفحة ويب يختار فيها هويته (شوف split-reel-style/SKILL.md ← الخطوة 1)
 ```
 بعدها نفس الخطوات: `prepare` ← `transcribe` ← `captions` ← جدول الملحقات ← `person_matte` (للتقسيمة) ← التصميم ← معاينة ← صوت ← `render` ← `sfx` ← `export`.
 
